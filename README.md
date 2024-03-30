@@ -27,6 +27,6 @@ This Python application leverages Google's Live Transcribe Speech Engine for rea
 - Give the path of your service account key json file.
 - Modify the 'phrase_time_limit' parameter in the listen method to control the maximum duration of each transcription.
 
-# The link to video video that showcases the application's real-time transcription capability is: 
+The link to video that showcases the application's real-time transcription capability is: 
 https://drive.google.com/file/d/1AKfyBedDwDV1NmPlxhwF3ZPUX_og3BGc/view?usp=sharing
 
